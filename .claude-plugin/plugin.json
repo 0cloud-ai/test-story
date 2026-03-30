@@ -1,0 +1,8 @@
+{
+  "name": "test-story",
+  "description": "故事驱动的 API 测试插件。读取叙事性 markdown 故事，从中提取隐含的 API 调用和断言，执行测试并报告结果。",
+  "version": "1.0.0",
+  "author": {
+    "name": "twwyzh"
+  }
+}
